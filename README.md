@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaostream
-- 👀Exploring the use of Logseq led me to joining Github
-I hope to learn how to use Logseq like you experts out there.
+- 👀Exploring the use of Lovable led me to joining Github
+A lifelong learner.
 
 <!---
 kaostream/kaostream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
